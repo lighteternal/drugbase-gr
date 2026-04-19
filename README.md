@@ -1,69 +1,75 @@
 # drugbase-gr
 
-**A structured, open corpus of all authorized pharmaceutical products in Greece.**
+> **A structured, open corpus of every authorized pharmaceutical product in Greece.**
 
-Sourced from the Hellenic National Organization for Medicines (ΕΟΦ) and the European Medicines Agency (EMA). Covers every drug currently on the Greek market: patient information leaflets (ΦΟΧ), summaries of product characteristics (SmPC), and full drug registry metadata — all in Greek.
+Built from official regulatory filings of the Hellenic National Organization for Medicines (ΕΟΦ) and the European Medicines Agency (EMA). Covers the full Greek market: patient information leaflets (ΦΟΧ), summaries of product characteristics (SmPC), and complete drug registry metadata — all in Greek.
 
-> Built to power free, open drug information search for patients, pharmacists, and researchers in Greece.
-
----
-
-## Coverage
-
-| Metric | Value |
-|---|---|
-| Registered drugs (EOF registry) | 15,522 |
-| Drugs with at least one document | 15,177 (97.8%) |
-| Unique brand names | 5,018 |
-| Active substances | 2,103 |
-| ATC codes | 1,468 |
-| Patient leaflets (ΦΟΧ) | 5,810 |
-| Summaries of product characteristics (SmPC) | 5,546 |
-| Combined product information documents | 1,424 |
-| Labelling documents | 665 |
-| **Total documents** | **13,445** |
+Designed to power free, open drug information search for patients, pharmacists, and researchers.
 
 ---
 
-## Therapeutic categories (ATC level 1)
+## At a glance
 
-| ATC | Category | Brands |
-|---|---|---|
-| N | Nervous system | 684 |
-| C | Cardiovascular system | 673 |
-| L | Antineoplastic & immunomodulators | 672 |
-| A | Alimentary tract & metabolism | 589 |
-| J | Anti-infectives (systemic) | 586 |
-| B | Blood & blood-forming organs | 413 |
-| R | Respiratory system | 264 |
-| G | Genito-urinary system & sex hormones | 229 |
-| M | Musculo-skeletal system | 214 |
-| S | Sensory organs | 212 |
-| D | Dermatologicals | 192 |
-| H | Systemic hormonal preparations | 156 |
-| V | Various | 116 |
-| P | Antiparasitic products | 13 |
+```
+15,522 registered drugs    ·    97.8% document coverage    ·    5,018 brand names
+ 2,103 active substances   ·    1,468 ATC codes            ·   13,445 documents
+```
 
 ---
 
-## Top manufacturers (by number of authorized products)
+## Documents
 
-| Manufacturer | Products |
-|---|---|
-| DEMO ABEE | 580 |
-| RAFARM A.E.B.E. | 449 |
-| ELPEN AE | 401 |
-| ΒΙΑΝΕΞ Α.Ε. | 396 |
-| BENNETT ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. | 290 |
-| UNI-PHARMA ΑΒΕΕ | 278 |
-| NOVARTIS EUROPHARM LIMITED | 273 |
-| VOCATE ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. | 262 |
-| ACCORD HEALTHCARE S.L.U. | 224 |
-| PFIZER EUROPE MA EEIG | 179 |
-| SANDOZ PHARMACEUTICALS D.D. | 160 |
-| MYLAN PHARMACEUTICALS LIMITED | 149 |
+| Type | Description | Count |
+|---|---|---:|
+| ΦΟΧ — Φύλλο Οδηγιών Χρήσης | Patient Information Leaflet | 5,810 |
+| SmPC — Περίληψη Χαρακτηριστικών Προϊόντος | Summary of Product Characteristics | 5,546 |
+| Product Information | Combined PIL + SmPC (EMA format) | 1,424 |
+| Labelling | Package labelling text | 665 |
+| **Total** | | **13,445** |
 
-The top 4 manufacturers are Greek domestic companies (DEMO, RAFARM, ELPEN, ΒΙΑΝΕΞ), collectively holding authorization for ~1,826 products — reflecting the strength of the Greek generics industry.
+Each PIL is parsed into the 6 standard EU sections. Each SmPC into 14 structured subsections.
+
+---
+
+## Therapeutic categories
+
+| ATC | Category | Brands | Share |
+|---|---|---:|---:|
+| N | Nervous system | 684 | 13.6% |
+| C | Cardiovascular system | 673 | 13.4% |
+| L | Antineoplastic & immunomodulators | 672 | 13.4% |
+| A | Alimentary tract & metabolism | 589 | 11.7% |
+| J | Anti-infectives (systemic) | 586 | 11.7% |
+| B | Blood & blood-forming organs | 413 | 8.2% |
+| R | Respiratory system | 264 | 5.3% |
+| G | Genito-urinary system & sex hormones | 229 | 4.6% |
+| M | Musculo-skeletal system | 214 | 4.3% |
+| S | Sensory organs | 212 | 4.2% |
+| D | Dermatologicals | 192 | 3.8% |
+| H | Systemic hormonal preparations | 156 | 3.1% |
+| V | Various | 116 | 2.3% |
+| P | Antiparasitic products | 13 | 0.3% |
+
+---
+
+## Top manufacturers
+
+| # | Manufacturer | Country | Products |
+|---|---|---|---:|
+| 1 | DEMO ABEE | Greece | 580 |
+| 2 | RAFARM A.E.B.E. | Greece | 449 |
+| 3 | ELPEN AE | Greece | 401 |
+| 4 | ΒΙΑΝΕΞ Α.Ε. | Greece | 396 |
+| 5 | BENNETT ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. | Greece | 290 |
+| 6 | UNI-PHARMA ΑΒΕΕ | Greece | 278 |
+| 7 | NOVARTIS EUROPHARM LIMITED | Ireland | 273 |
+| 8 | VOCATE ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. | Greece | 262 |
+| 9 | ACCORD HEALTHCARE S.L.U. | Spain | 224 |
+| 10 | PFIZER EUROPE MA EEIG | Belgium | 179 |
+| 11 | SANDOZ PHARMACEUTICALS D.D. | Slovenia | 160 |
+| 12 | MYLAN PHARMACEUTICALS LIMITED | Ireland | 149 |
+
+The top 6 manufacturers are all Greek domestic companies, collectively holding authorization for over **2,400 products** — a reflection of the large and mature Greek generics industry. Greek manufacturers account for the majority of authorized SKUs on the market.
 
 ---
 
@@ -71,23 +77,15 @@ The top 4 manufacturers are Greek domestic companies (DEMO, RAFARM, ELPEN, ΒΙ�
 
 ```
 drugbase-gr/
-├── catalog.json          # Filterable index: one entry per brand
-│                         #   fields: brand, substances, atc_codes, primary_atc,
-│                         #           atc_level1/2, mahs, package_forms,
-│                         #           has_pil, has_smpc, doc_count, sources
-├── registry.jsonl        # Full drug registry (15,522 entries, one per package/SKU)
-│                         #   fields: drug_id, brand_name, active_substances, atc_code,
-│                         #           form, strength, packaging, mah, market_status,
-│                         #           barcode, pricing, document_refs
-├── brands_md/            # 5,018 Markdown files, one per brand
-│                         #   Each file contains all PIL and SmPC sections
-│                         #   in Greek, with YAML frontmatter for metadata
-└── LICENSE               # CC BY 4.0
+├── catalog.json       # Filterable index: one entry per brand (2.7 MB)
+├── registry.jsonl     # Full drug registry: one line per package/SKU (20 MB)
+├── brands_md/         # 5,018 Markdown files, one per brand (~906 MB total)
+└── LICENSE            # CC BY 4.0
 ```
 
-### `catalog.json` — machine-readable brand index
+### `catalog.json` — brand index for search & filtering
 
-The primary entry point for building search and filter interfaces. Each entry:
+The primary entry point for building search interfaces and filter UIs. One JSON object per brand:
 
 ```json
 {
@@ -111,85 +109,72 @@ The primary entry point for building search and filter interfaces. Each entry:
 
 ### `registry.jsonl` — drug registry
 
-One JSON line per authorized package/SKU. Cross-referenced with document IDs in `corpus.jsonl` (not included in this repo due to size — see below).
+One JSON line per authorized package/SKU (15,522 total). Fields include `drug_id`, `brand_name`, `active_substances`, `atc_code`, `form`, `strength`, `packaging`, `mah`, `market_status`, `barcode`, `pricing`, and `document_refs` linking to the parsed document corpus.
 
-### `brands_md/` — human-readable drug leaflets
+### `brands_md/` — structured drug leaflets in Greek
 
 One Markdown file per brand, e.g. `brands_md/ELIQUIS.md`. Each file contains:
 
-- YAML frontmatter: brand name, ATC, substances, MAH, package list, document count
-- Package table: all authorized forms, strengths, and packaging variants
-- Full text of each Patient Information Leaflet (ΦΟΧ) structured into sections 1–6
-- Full text of each Summary of Product Characteristics (SmPC) structured into sections 1–6
-- Source attribution (ΕΟΦ or EMA)
-
-Section structure for PILs follows the standard EU format:
-1. What it is and what it is used for
-2. What you need to know before you take it
-3. How to take it
-4. Possible side effects
-5. How to store it
-6. Contents of the pack and other information
-
----
-
-## What is NOT included
-
-- `corpus.jsonl` (3.5 GB) — the full parsed document store with raw text and structured sections. Too large for git without LFS. Available on request or can be regenerated using the [pipeline repo](#pipeline).
-- Documents for the 168 brands (3.3%) that have no publicly available PDF at time of crawl (mostly discontinued/withdrawn products).
-- English-language EMA documents for products that have no Greek translation available.
-
----
-
-## Data sources
-
-| Source | Description |
-|---|---|
-| [ΕΟΦ eRegistry](https://www.eof.gr) | Official Greek national drug registry — all authorized products, barcodes, MAHs, ATC codes |
-| [EMA Product Information](https://www.ema.europa.eu) | Centrally authorized products — Greek-language PILs and SmPCs from the EMA website |
-
-All underlying documents are official public regulatory filings. This dataset adds structure: cross-referencing brands to documents, parsing PDFs into named sections, normalizing metadata.
+- **YAML frontmatter** — brand name, ATC code, active substances, MAH, package count, document count
+- **Package table** — all authorized pharmaceutical forms, strengths, and packaging variants with status
+- **Patient Information Leaflets (ΦΟΧ)** — full Greek text structured into 6 standard EU sections:
+  1. Τι είναι και ποια η χρήση του *(What it is and what it is used for)*
+  2. Τι πρέπει να γνωρίζετε πριν το πάρετε *(What you need to know before taking it)*
+  3. Πώς να το πάρετε *(How to take it)*
+  4. Πιθανές ανεπιθύμητες ενέργειες *(Possible side effects)*
+  5. Φύλαξη *(How to store it)*
+  6. Περιεχόμενα συσκευασίας & λοιπές πληροφορίες *(Pack contents and other information)*
+- **Summaries of Product Characteristics (SmPC)** — full Greek text structured into 14 subsections covering indications, posology, contraindications, warnings, interactions, pharmacology, and more
+- **Source attribution** — ΕΟΦ or EMA
 
 ---
 
 ## Usage examples
 
-**Find all cardiovascular drugs by a Greek manufacturer:**
+**Filter by therapeutic area:**
 ```python
 import json
 
 catalog = json.load(open("catalog.json"))
-results = [
+
+# All oncology brands
+oncology = [b for b in catalog if b["atc_level1"] == "L"]
+print(f"{len(oncology)} antineoplastic brands")  # → 672
+```
+
+**Find all generics for a substance:**
+```python
+apixaban_brands = [b for b in catalog if "APIXABAN" in b["substances"]]
+# → ELIQUIS, ABOXOMA, APIXABAN KRKA, APIXABAN SANDOZ, ...
+```
+
+**Find cardiovascular drugs from Greek manufacturers:**
+```python
+greek_cardio = [
     b for b in catalog
     if b["atc_level1"] == "C"
     and any("DEMO" in m or "RAFARM" in m or "ELPEN" in m for m in b["mahs"])
 ]
-print(f"{len(results)} cardiovascular drugs from Greek manufacturers")
 ```
 
-**Search for all brands containing apixaban:**
-```python
-results = [b for b in catalog if "APIXABAN" in b["substances"]]
-```
-
-**Read a drug leaflet:**
+**Read a full drug leaflet:**
 ```python
 from pathlib import Path
-text = Path("brands_md/ELIQUIS.md").read_text(encoding="utf-8")
+leaflet = Path("brands_md/ELIQUIS.md").read_text(encoding="utf-8")
+```
+
+**List all brands with both PIL and SmPC:**
+```python
+complete = [b for b in catalog if b["has_pil"] and b["has_smpc"]]
+print(f"{len(complete)} brands with complete documentation")
 ```
 
 ---
 
 ## License
 
-**CC BY 4.0** — Free to use, share, and adapt with attribution.
+**[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** — Free to use, share, and adapt for any purpose, including commercial, with attribution.
 
-> **Cite as:** Papadopoulos, D. (2025). *drugbase-gr: A structured corpus of authorized pharmaceutical products in Greece*. GitHub. https://github.com/lighteternal/drugbase-gr
+> **Cite as:** Papadopoulos, D. (2026). *drugbase-gr: A structured corpus of authorized pharmaceutical products in Greece*. GitHub. https://github.com/lighteternal/drugbase-gr
 
-The underlying regulatory documents are public data from ΕΟΦ and EMA. This repository provides structured access to that data. See [LICENSE](LICENSE) for full terms.
-
----
-
-## Related
-
-- [legalize-gr](https://github.com/lighteternal/legalize-gr) — corpus of all Greek legislation, same approach applied to law
+The underlying regulatory documents are official public filings from ΕΟΦ and EMA. This repository provides structured, machine-readable access to that data: cross-referenced, section-parsed, and normalized. See [LICENSE](LICENSE) for full terms.
