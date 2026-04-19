@@ -1,0 +1,35 @@
+---
+brand_name: ALTUVOCT
+active_substances:
+  - EFANESOCTOCOG ALFA
+atc_code: B02BD02
+mah: SWEDISH ORPHAN BIOVITRUM AB (PUBL), STOCKHOLM, SWEDEN
+package_count: 6
+document_count: 1
+---
+
+# ALTUVOCT
+
+**Δραστική ουσία:** EFANESOCTOCOG ALFA
+**ATC:** B02BD02
+**ΚΑΑ (MAH):** SWEDISH ORPHAN BIOVITRUM AB (PUBL), STOCKHOLM, SWEDEN
+
+## Συσκευασίες
+
+| Μορφή | Δόση | Συσκευασία | Κωδικός | Κατάσταση |
+|-------|------|------------|---------|-----------|
+| PS.INJ.SOL | 1000IU/VIAL (333IU/ML) | BT X 1 VIAL (GLASS-POWDER) + 1 PF.SYR (GLASS) X 3ML SOLV + 1 PLUNGER ROD + 1 VIAL ADAPTER + 1 INFUSION SET | `gr-eof-pack-338480401` |  |
+| PS.INJ.SOL | 2000IU/VIAL (667IU/ML) | BT X 1 VIAL (GLASS-POWDER) + 1 PF.SYR (GLASS) X 3ML SOLV + 1 PLUNGER ROD + 1 VIAL ADAPTER + 1 INFUSION SET | `gr-eof-pack-338480501` |  |
+| PS.INJ.SOL | 250IU/VIAL (83IU/ML) | BT X 1 VIAL (GLASS-POWDER) + 1 PF.SYR (GLASS) X 3ML SOLV + 1 PLUNGER ROD + 1 VIAL ADAPTER + 1 INFUSION SET | `gr-eof-pack-338480101` |  |
+| PS.INJ.SOL | 3000IU/VIAL (1000IU/ML) | BT X 1 VIAL (GLASS-POWDER) + 1 PF.SYR (GLASS) X 3ML SOLV + 1 PLUNGER ROD + 1 VIAL ADAPTER + 1 INFUSION SET | `gr-eof-pack-338480601` |  |
+| PS.INJ.SOL | 4000IU/VIAL (1333IU/ML) | BT X 1 VIAL (GLASS-POWDER) + 1 PF.SYR (GLASS) X 3ML SOLV + 1 PLUNGER ROD + 1 VIAL ADAPTER + 1 INFUSION SET | `gr-eof-pack-338480701` |  |
+| PS.INJ.SOL | 500IU/VIAL (167IU/ML) | BT X 1 VIAL (GLASS-POWDER) + 1 PF.SYR (GLASS) X 3ML SOLV + 1 PLUNGER ROD + 1 VIAL ADAPTER + 1 INFUSION SET | `gr-eof-pack-338480201` |  |
+
+---
+
+## Πληροφορίες Προϊόντος — PS.INJ.SOL | 250IU/VIAL (83IU/ML), 500IU/VIAL (167IU/ML), 1000IU/VIAL (333IU/ML)
+
+> Πηγή: Εθνικός Οργανισμός Φαρμάκων (ΕΟΦ)  
+> Εκδότης: supplemental
+
+---

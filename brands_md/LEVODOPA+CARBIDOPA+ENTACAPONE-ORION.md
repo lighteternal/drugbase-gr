@@ -1,0 +1,37 @@
+---
+brand_name: LEVODOPA+CARBIDOPA+ENTACAPONE/ORION
+active_substances:
+  - LEVODOPA,CARBIDOPA,ENTACAPONE
+  - LEVODOPA:CARBIDOPA:ENTACAPONE
+atc_code: N04BA03
+mah: ORION CORPORATION ESPOO, ΦΙΝΛΑΝΔΙΑ
+package_count: 14
+document_count: 0
+---
+
+# LEVODOPA+CARBIDOPA+ENTACAPONE/ORION
+
+**Δραστική ουσία:** LEVODOPA,CARBIDOPA,ENTACAPONE, LEVODOPA:CARBIDOPA:ENTACAPONE
+**ATC:** N04BA03
+**ΚΑΑ (MAH):** ORION CORPORATION ESPOO, ΦΙΝΛΑΝΔΙΑ
+
+## Συσκευασίες
+
+| Μορφή | Δόση | Συσκευασία | Κωδικός | Κατάσταση |
+|-------|------|------------|---------|-----------|
+| F.C.TAB | (100+25+200)MG/TAB | BOTTLE (HDPE) x 30 | `gr-eof-pack-3356503` |  |
+| F.C.TAB | (125+31,25+200)MG/TAB | BOTTLE (HDPE) x 30 | `gr-eof-pack-3356504` |  |
+| F.C.TAB | (150+37,5+200)MG/TAB | BOTTLE (HDPE) x 30 | `gr-eof-pack-3356505` |  |
+| F.C.TAB | (175+43,75+200)MG/TAB | BOTTLE (HDPE) x 30 | `gr-eof-pack-3356507` |  |
+| F.C.TAB | (200+50+200)MG/TAB | BOTTLE (HDPE) x 30 | `gr-eof-pack-3356506` |  |
+| F.C.TAB | (50+12,5+200)MG/TAB | BOTTLE (HDPE) x 30 | `gr-eof-pack-3356501` |  |
+| F.C.TAB | (75+18,75+200)MG/TAB | BOTTLE (HDPE) x 30 | `gr-eof-pack-3356502` |  |
+| LEVODOPA+CARBIDOPA+ENTACAPONE/ORION F.C.TAB | (100+25+200)MG/TAB | BT X 1 BOTTLE (HDPE) X 30 TABS | `gr-eof-pack-335650302` |  |
+| LEVODOPA+CARBIDOPA+ENTACAPONE/ORION F.C.TAB | (125+31.25+200)MG/TAB | BT X 1 BOTTLE (HDPE) X 30 TABS | `gr-eof-pack-335650402` |  |
+| LEVODOPA+CARBIDOPA+ENTACAPONE/ORION F.C.TAB | (150+37.5+200)MG/TAB | BT X 1 BOTTLE (HDPE) X 30 TABS | `gr-eof-pack-335650502` |  |
+| LEVODOPA+CARBIDOPA+ENTACAPONE/ORION F.C.TAB | (175+43.75+200)MG/TAB | BT X 1 BOTTLE (HDPE) X 30 TABS | `gr-eof-pack-335650702` |  |
+| LEVODOPA+CARBIDOPA+ENTACAPONE/ORION F.C.TAB | (200+50+200)MG/TAB | BT X 1 BOTTLE (HDPE) X 30 TABS | `gr-eof-pack-335650602` |  |
+| LEVODOPA+CARBIDOPA+ENTACAPONE/ORION F.C.TAB | (50+12.5+200)MG/TAB | BT X 1 BOTTLE (HDPE) X 30 TABS | `gr-eof-pack-335650102` |  |
+| LEVODOPA+CARBIDOPA+ENTACAPONE/ORION F.C.TAB | (75+18.75+200)MG/TAB | BT X 1 BOTTLE (HDPE) X 30 TABS | `gr-eof-pack-335650202` |  |
+
+*Δεν υπάρχουν διαθέσιμα έγγραφα για αυτό το φάρμακο.*
