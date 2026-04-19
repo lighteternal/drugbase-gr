@@ -1,0 +1,17 @@
+{
+  "brands_with_documents": 4850,
+  "brands_without_documents": 168,
+  "corpus_total": 13445,
+  "coverage_pct": 97.8,
+  "doc_type_breakdown": {
+    "labelling": 665,
+    "pil": 5810,
+    "product_information": 1424,
+    "smpc": 5546
+  },
+  "drugs_with_documents": 15177,
+  "registry_total": 15522,
+  "unique_atc_codes": 1468,
+  "unique_brands": 5018,
+  "unique_substances": 2103
+}
