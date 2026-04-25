@@ -11,9 +11,12 @@ Designed to power free, open drug information search for patients, pharmacists, 
 ## At a glance
 
 ```
-15,522 registered drugs    ·    97.8% document coverage    ·    5,018 brand names
- 2,103 active substances   ·    1,468 ATC codes            ·   13,445 documents
+16,513 registry rows       ·    91.9% package document coverage · 5,474 brand/product pages
+ 2,290 active substances   ·    1,604 ATC codes                 · 13,445 documents
 ```
+
+This snapshot contains **5,473 authorized medicine brands** plus **1 adjacent
+metadata-only product** currently tracked to improve consumer-market coverage.
 
 ---
 
@@ -35,41 +38,41 @@ Each PIL is parsed into the 6 standard EU sections. Each SmPC into 14 structured
 
 | ATC | Category | Brands | Share |
 |---|---|---:|---:|
-| N | Nervous system | 684 | 13.6% |
-| C | Cardiovascular system | 673 | 13.4% |
-| L | Antineoplastic & immunomodulators | 672 | 13.4% |
-| A | Alimentary tract & metabolism | 589 | 11.7% |
-| J | Anti-infectives (systemic) | 586 | 11.7% |
-| B | Blood & blood-forming organs | 413 | 8.2% |
-| R | Respiratory system | 264 | 5.3% |
-| G | Genito-urinary system & sex hormones | 229 | 4.6% |
-| M | Musculo-skeletal system | 214 | 4.3% |
-| S | Sensory organs | 212 | 4.2% |
-| D | Dermatologicals | 192 | 3.8% |
-| H | Systemic hormonal preparations | 156 | 3.1% |
-| V | Various | 116 | 2.3% |
-| P | Antiparasitic products | 13 | 0.3% |
+| N | Nervous system | 737 | 13.5% |
+| C | Cardiovascular system | 698 | 12.8% |
+| A | Alimentary tract & metabolism | 678 | 12.4% |
+| L | Antineoplastic & immunomodulators | 672 | 12.3% |
+| J | Anti-infectives (systemic) | 586 | 10.7% |
+| B | Blood & blood-forming organs | 414 | 7.6% |
+| R | Respiratory system | 374 | 6.8% |
+| D | Dermatologicals | 277 | 5.1% |
+| M | Musculo-skeletal system | 275 | 5.0% |
+| G | Genito-urinary system & sex hormones | 234 | 4.3% |
+| S | Sensory organs | 233 | 4.3% |
+| H | Systemic hormonal preparations | 156 | 2.9% |
+| V | Various | 117 | 2.1% |
+| P | Antiparasitic products | 14 | 0.3% |
 
 ---
 
 ## Top manufacturers
 
-| # | Manufacturer | Country | Products |
-|---|---|---|---:|
-| 1 | DEMO ABEE | Greece | 580 |
-| 2 | RAFARM A.E.B.E. | Greece | 449 |
-| 3 | ELPEN AE | Greece | 401 |
-| 4 | ΒΙΑΝΕΞ Α.Ε. | Greece | 396 |
-| 5 | BENNETT ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. | Greece | 290 |
-| 6 | UNI-PHARMA ΑΒΕΕ | Greece | 278 |
-| 7 | NOVARTIS EUROPHARM LIMITED | Ireland | 273 |
-| 8 | VOCATE ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. | Greece | 262 |
-| 9 | ACCORD HEALTHCARE S.L.U. | Spain | 224 |
-| 10 | PFIZER EUROPE MA EEIG | Belgium | 179 |
-| 11 | SANDOZ PHARMACEUTICALS D.D. | Slovenia | 160 |
-| 12 | MYLAN PHARMACEUTICALS LIMITED | Ireland | 149 |
+| # | Manufacturer | Brand pages |
+|---|---|---:|
+| 1 | RAFARM A.E.B.E. | 185 |
+| 2 | DEMO ABEE | 184 |
+| 3 | UNI-PHARMA ΚΛΕΩΝ ΤΣΕΤΗΣ ΦΑΡΜΑΚΕΥΤΙΚΑ ΕΡΓΑΣΤΗΡΙΑ ΑΒΕΕ | 130 |
+| 4 | ΒΙΑΝΕΞ Α.Ε. ΑΝΩΝΥΜΟΣ ΕΜΠΟΡΟΒΙΟΜΗΧΑΝΙΚΗ-ΤΟΥΡΙΣΤΙΚΗ-ΞΕΝΟΔΟΧΕΙΑΚΗ ΚΑΙ ΝΑΥΤΙΛΙΑΚΗ ΑΝΩΝΥΜΟΣ ΕΤΑΙΡΕΙΑ Δ.Τ. ΒΙΑΝΕΞ Α.Ε. | 126 |
+| 5 | ELPEN AE ΦΑΡΜΑΚΕΥΤΙΚΗ ΒΙΟΜΗΧΑΝΙΑ | 124 |
+| 6 | VERISFIELD ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. Δ.Τ. VERISFIELD | 100 |
+| 7 | VOCATE ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. | 87 |
+| 8 | ΚΟΠΕΡ Α.Ε. | 79 |
+| 9 | BENNETT ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. | 78 |
+| 10 | ΑΝΦΑΡΜ ΕΛΛΑΣ Α.Ε. | 71 |
+| 11 | ΦΑΡΜΑΤΕΝ ΑΒΕΕ | 69 |
+| 12 | NOVARTIS EUROPHARM LIMITED, IRELAND | 68 |
 
-The top 6 manufacturers are all Greek domestic companies, collectively holding authorization for over **2,400 products** — a reflection of the large and mature Greek generics industry. Greek manufacturers account for the majority of authorized SKUs on the market.
+Manufacturer counts are grouped at brand-page level, not package/SKU level.
 
 ---
 
@@ -77,9 +80,9 @@ The top 6 manufacturers are all Greek domestic companies, collectively holding a
 
 ```
 drugbase-gr/
-├── catalog.json       # Filterable index: one entry per brand (2.7 MB)
-├── registry.jsonl     # Full drug registry: one line per package/SKU (20 MB)
-├── brands_md/         # 5,018 Markdown files, one per brand (~906 MB total)
+├── catalog.json       # Filterable index: one entry per brand/product (3.1 MB)
+├── registry.jsonl     # Full registry: one line per package/SKU or adjacent product (22 MB)
+├── brands_md/         # 5,474 Markdown files, one per brand/product (~906 MB total)
 └── LICENSE            # CC BY 4.0
 ```
 
@@ -109,7 +112,7 @@ The primary entry point for building search interfaces and filter UIs. One JSON 
 
 ### `registry.jsonl` — drug registry
 
-One JSON line per authorized package/SKU (15,522 total). Fields include `drug_id`, `brand_name`, `active_substances`, `atc_code`, `form`, `strength`, `packaging`, `mah`, `market_status`, `barcode`, `pricing`, and `document_refs` linking to the parsed document corpus.
+One JSON line per package/SKU or adjacent tracked product (16,513 total). Fields include `drug_id`, `brand_name`, `active_substances`, `atc_code`, `form`, `strength`, `packaging`, `mah`, `market_status`, `barcode`, `pricing`, and `document_refs` linking to the parsed document corpus when official documents are available.
 
 ### `brands_md/` — structured drug leaflets in Greek
 
