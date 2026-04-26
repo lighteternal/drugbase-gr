@@ -30825,9 +30825,9 @@
       "GR.CAP 300MG/CAP"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -36824,9 +36824,9 @@
       "SOL.INF 5% (W/V)"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -125456,9 +125456,9 @@
       "SOL.INF 0,9%W/V"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -148928,9 +148928,9 @@
       "SOLV.INJ 100% W/V"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -148955,9 +148955,9 @@
       "SOLV.PA.IN 100% W/V"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
