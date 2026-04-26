@@ -3,17 +3,17 @@
   "unique_brands": 5474,
   "authorized_brands": 5473,
   "adjacent_products": 1,
-  "brands_with_documents": 4849,
-  "brands_without_documents": 625,
-  "drugs_with_documents": 15177,
-  "coverage_pct": 91.9,
-  "brand_coverage_pct": 88.6,
-  "corpus_total": 13445,
+  "brands_with_documents": 5232,
+  "brands_without_documents": 242,
+  "drugs_with_documents": 16117,
+  "coverage_pct": 97.6,
+  "brand_coverage_pct": 95.6,
+  "corpus_total": 14277,
   "doc_type_breakdown": {
     "labelling": 665,
-    "pil": 5810,
+    "pil": 6224,
     "product_information": 1424,
-    "smpc": 5546
+    "smpc": 5964
   },
   "unique_substances": 2290,
   "unique_atc_codes": 1604

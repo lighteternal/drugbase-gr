@@ -100,9 +100,9 @@
       "2%/MEDIPLANTS TINCT 2% FLX65ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -423,9 +423,9 @@
       "CREAM 0,075 % W/W Σωλ. x 50 G"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -450,9 +450,9 @@
       "4,8MG/PLAST(18x12cm) SACHET x 1 PLASTER"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -477,9 +477,9 @@
       "1,8G/DOSE(2,5ML)"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -504,9 +504,9 @@
       "2,4G/DOSE(2,5ML)"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -531,9 +531,9 @@
       "2,1G/DOSE(2,5ML)"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -644,9 +644,9 @@
       "CUT.SOL 70% V/V BOTTLEX300ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -864,9 +864,9 @@
       "CUT.SOL 3% FLx500 ML"
     ],
     "drug_count": 5,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -891,9 +891,9 @@
       "SUPP 0,6G/SUP ΒΤx10"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -919,9 +919,9 @@
       "SUPP 2,4G/SUP JAR x 20"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -946,9 +946,9 @@
       "SUPP 1,2G/SUP ΒΤx10"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -974,9 +974,9 @@
       "CUT.SOL 95% V/V FL x 420 ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -1883,9 +1883,9 @@
       "SYR 30MG/5ML FLx200 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -3024,9 +3024,9 @@
       "CAPS) CUT.PATCH 160MG/CUT.PATCH (40% W/W) 1SACHETx2 CUT.PATCH (STRIPS)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -3051,9 +3051,9 @@
       "40% 1 PAQx5 STRIPS"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -3889,9 +3889,9 @@
       "C.TAB 200MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -3916,9 +3916,9 @@
       "SOFT.CAPS 400MG/CAP"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -4066,9 +4066,9 @@
       "100MCG/DOSE ΣΥΣΚΕΥΗ 200 ΔΟΣΕΙΣ (17g)"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -4098,9 +4098,9 @@
       "INH.SOL.N 5MG/2.5ML AMP (SD)"
     ],
     "drug_count": 6,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -5344,9 +5344,9 @@
       "TAB (500+65)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -5462,9 +5462,9 @@
       "TAB (400+200+50)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -5601,9 +5601,9 @@
       "EF.TAB 2G/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -5628,9 +5628,9 @@
       "F.C.TAB 120MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -5656,9 +5656,9 @@
       "EY.DRO.SOL 4% W/V FLX10ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -5912,9 +5912,9 @@
       "CUT.SOL 5%"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -6287,9 +6287,9 @@
       "CHW.TAB (233+83,46)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -7107,9 +7107,9 @@
       "INJ.SOL 250MG/10ML AMP"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -7990,9 +7990,9 @@
       "PD.ORA.SOL 1,884(1,50)G/SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -8218,9 +8218,9 @@
       "CUT.SOL 5% (50mg/ML) 3 BOTTLES (HDPE) x 60ml με αντλία ψεκασμού + 3 αποσπώμενοι ενεργοποιητές με ακροφύσιο + 2 αποσπώμενοι ενεργοποιητές με ράβδο"
     ],
     "drug_count": 4,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -8413,8 +8413,8 @@
       "OINT.REC.A (5+5)MG/G"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -8582,9 +8582,9 @@
       "24MG/TAB"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -8609,9 +8609,9 @@
       "8MG/ML FLX30ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -9215,8 +9215,8 @@
       "GRAN.SD.CO 1000MG/SACHET"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -9242,9 +9242,9 @@
       "EF.TAB EF.TAB(500+300)MG/TA"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -9297,9 +9297,9 @@
       "TAB (500+65)MG/TAB"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -9351,9 +9351,9 @@
       "100MG/ML FLx30ML+Δοσιμετρικο σταγονομετρητη"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -9406,9 +9406,9 @@
       "SYR.SACHET 120MG/5ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -9433,9 +9433,9 @@
       "EFF.GRAN 1000MG/STICK"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -9717,9 +9717,9 @@
       "SYR 30MG/5ML FL X250ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -11334,9 +11334,9 @@
       "TAB 500MG/TAB ΒΤΧ20(BLIST2X10)"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 6,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -11361,9 +11361,9 @@
       "GR.TAB 100MG/TAB"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -11388,9 +11388,9 @@
       "EF.TAB (400+240)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -12530,9 +12530,9 @@
       "EY.DRO.SOL 1% FLX10ML"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -13215,9 +13215,9 @@
       "CUT.SOL 5% W/V FLx60ML"
     ],
     "drug_count": 4,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -13720,9 +13720,9 @@
       "TAB (20+40)MG/TAB"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -15304,9 +15304,9 @@
       "SPRAY® MO.SPR.SO (0.15+0.5)% W/V"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -15451,9 +15451,9 @@
       "5% W/W (50MG/G)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -16107,9 +16107,9 @@
       "VAG.SOL 10% FLX240ML"
     ],
     "drug_count": 8,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 10,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -16135,9 +16135,9 @@
       "7.5% FLX100ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -16162,9 +16162,9 @@
       "4% FLx100ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -16189,9 +16189,9 @@
       "10% FLX8ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -16326,9 +16326,9 @@
       "24MG/TAB"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -17833,9 +17833,9 @@
       "BISOLVON SYR 8MG/5ML FL x 250 ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -17862,9 +17862,9 @@
       "SOL.GA.M.W 0,066%+0,050% FL x 100 ML (PET) + δοσομετρικό κυπέλλιο"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -18284,9 +18284,9 @@
       "CHW.TAB 500 (Ca++)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -18826,9 +18826,9 @@
       "2% W/W FLx180 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -18854,9 +18854,9 @@
       "CUT.SOL 5% W/V"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -19943,9 +19943,9 @@
       "ORAL.SOL (0.12+0.83)G/15 ML BOTTLEx200 ML σε γυάλινη φιάλη και δοσομετρικό κύπελλο"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -19968,9 +19968,9 @@
       "(51.1+4.5)MG"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -19995,9 +19995,9 @@
       "CAPS (500+100+6.1)MG/CAP"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -20023,9 +20023,9 @@
       "SYR 4MG/5ML FLX100ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -20053,8 +20053,8 @@
       "TAB 30MG/TAB"
     ],
     "drug_count": 4,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 2,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -20875,8 +20875,8 @@
       "SYR 30MG/5ML FLx250ML"
     ],
     "drug_count": 4,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 2,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -20903,8 +20903,8 @@
       "30MG/SACHET"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 2,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -20957,9 +20957,9 @@
       "F.C.TAB (400+100)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -21071,9 +21071,9 @@
       "SYR 7.5MG/5ML FL X200ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -21242,8 +21242,8 @@
       "SYR 7.5MG/5ML FLX200ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -21417,8 +21417,8 @@
       "CUT.SOL 2% (W/V)"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -22347,9 +22347,9 @@
       "CUT.SOL 10% FLX10ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -22606,9 +22606,9 @@
       "C.TAB (36+36+36)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -23073,9 +23073,9 @@
       "GR.CAP (140+45)MG/CAP (ΚΟΚΚΙΝΕΣ)"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -23392,9 +23392,9 @@
       "LOZ 8MG/LOZ"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -23501,9 +23501,9 @@
       "ORAL.SOL 1G/10ML VIAL ORAL"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -24154,9 +24154,9 @@
       "CAPS 100MG/CAP"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -24698,9 +24698,9 @@
       "SYR 30MG/5ML FLx250 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -25361,9 +25361,9 @@
       "CUT.SOL (0,6314+0,1430)g/g Πλαστ.δοχείο x1000ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -25415,9 +25415,9 @@
       "OR.T.SOL 0.2% W/V Bottle x 250ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -26866,9 +26866,9 @@
       "PD.ORA.SOL (0.01+3.50+10.97)G/SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -26893,9 +26893,9 @@
       "ORAL.SOL (0.01+3.5+10.97)G/DOSE"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -27115,9 +27115,9 @@
       "TAB 10MG/TAB ΒΤx30 (PVC/ALU blister)"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -27224,9 +27224,9 @@
       "PD.OR.S.SA 10G/SACHET"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -27251,9 +27251,9 @@
       "PD.OR.S.SA 4G/SACHET"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -27815,9 +27815,9 @@
       "TAB 50MG/TAB"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -29293,9 +29293,9 @@
       "F.C.TAB (500+30+2)MG/TAB"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -29380,9 +29380,9 @@
       "ORAL.SOL 500MG/5ML BOTTLE x 150ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -29407,9 +29407,9 @@
       "CAPS 400MG/CAP"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -29902,9 +29902,9 @@
       "CORNEREGEL EYE.GEL 5% W/W"
     ],
     "drug_count": 1,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -30419,9 +30419,9 @@
       "CREAM (100 + 13 + 54)MG/G TUBX100G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -30852,9 +30852,9 @@
       "GR.CAP 300MG/CAP"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -31374,9 +31374,9 @@
       "CUT.SOL (63+0,025)% FLx250ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -31401,9 +31401,9 @@
       "CUT.SOL 63%+0.025% FLX250ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -31456,9 +31456,9 @@
       "CAPS (150+150+100)MG/CAP ΒΤ x 60 (BLIST 6 x10)"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -31743,9 +31743,9 @@
       "SOFT.CAPS 75MCG/CAP"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -32082,9 +32082,9 @@
       "GEL EYE.GEL 0,3% W/W"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -32163,9 +32163,9 @@
       "F.C.TAB (450+50)MG/TAB"
     ],
     "drug_count": 4,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -32279,9 +32279,9 @@
       "PD.EXT.US 2% (W/W) FLx20 G"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 5,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -32306,9 +32306,9 @@
       "2% W/V FL x 30 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -32333,9 +32333,9 @@
       "SPRAY CUT.SP.PD 2% (20mg/g) BOTTLE x 100g υπό πίεση εξοπλισμένο με βαλβίδα ψεκασμού με ακροφύσιο"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -32422,9 +32422,9 @@
       "2% (W/W) TUB x 40G (7 δοσομετρικοί εφαρμοστές)"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -33642,9 +33642,9 @@
       "CREAM TUB X100G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -34736,9 +34736,9 @@
       "TAB 500MG/TAB"
     ],
     "drug_count": 5,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 10,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -34763,9 +34763,9 @@
       "500MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -34790,9 +34790,9 @@
       "F.C.TAB (500+4)MG/TAB"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -34817,9 +34817,9 @@
       "1000MG/SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -34844,9 +34844,9 @@
       "500MG/SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -34871,9 +34871,9 @@
       "250MG/SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -34898,9 +34898,9 @@
       "EF.TAB 1G/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -34925,9 +34925,9 @@
       "TAB (500+65)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -34952,9 +34952,9 @@
       "CAPS 1000MG/CAP"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -34979,9 +34979,9 @@
       "EF.TAB (500+200)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -35006,9 +35006,9 @@
       "F.C.TAB 1000MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -35689,9 +35689,9 @@
       "CUT.SOL 4,8% (W/V) FL x 500 ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -37279,9 +37279,9 @@
       "1,29% (180MG/PLAST)"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -37617,9 +37617,9 @@
       "GEL.EXT.US 1MG/G"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -38425,9 +38425,9 @@
       "CAPS 226MG/CAP"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -38652,9 +38652,9 @@
       "RECT.CREAM 0,1%+2% (W/W) TUBx30 G"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -38740,9 +38740,9 @@
       "PD.OR.SD 1,884(1,5)G/SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -38767,9 +38767,9 @@
       "PD.ORA.SOL 1,884(1,50)G/SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -39744,9 +39744,9 @@
       "CAPS 500MG/CAP ΒΤΧ30(BLIST 3X10)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -40187,9 +40187,9 @@
       "7,5MG/ML FLx15 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -40215,9 +40215,9 @@
       "SUPP 10MG/SUP"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -40618,9 +40618,9 @@
       "ORAL.SOL 667MG/ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -40732,9 +40732,9 @@
       "5000 TOOTHPASTE 1,10% (W/W)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -40786,9 +40786,9 @@
       "EYE.OINT"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -40987,9 +40987,9 @@
       "SYR 2,7G/10ML(DOSE)"
     ],
     "drug_count": 3,
-    "doc_count": 0,
+    "doc_count": 2,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -42820,9 +42820,9 @@
       "F.C.TAB 30MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -43279,9 +43279,9 @@
       "TAB 30MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -43926,9 +43926,9 @@
       "REC.SOL (16+6)G/100ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -47835,9 +47835,9 @@
       "ORAL.SOL (12.5+4)MG/ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -49133,9 +49133,9 @@
       "NASPR.SOL 22MCG/DOSE FLx10 ML (225 DOSES)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -49666,9 +49666,9 @@
       "(390+265)MG/5ML BOTTLE x 300 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -50260,9 +50260,9 @@
       "GEL 1MG/G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -50288,9 +50288,9 @@
       "GEL 2% W/W"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -50316,9 +50316,9 @@
       "GEL.EXT.US 0,1% (W/W) ΤΒx50 G"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -50343,9 +50343,9 @@
       "0,1% (W/V) FLx8 ML (ROLL-ON-STICK)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -50370,9 +50370,9 @@
       "CREAM 1% (W/W) TUB x 2 G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -50397,9 +50397,9 @@
       "CREAM 1% W/W TUB x2 G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -52706,9 +52706,9 @@
       "ORAL.SOL (12.5+4)MG/ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -52965,9 +52965,9 @@
       "F.C.TAB (450+50)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -54245,9 +54245,9 @@
       "600MG/SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -54773,9 +54773,9 @@
       "0,1% FLX5ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -55396,9 +55396,9 @@
       "75MG/CAP"
     ],
     "drug_count": 2,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -56761,9 +56761,9 @@
       "2% W/W FLx120 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -58034,9 +58034,9 @@
       "SOFT.CAPS 500MG/CAP"
     ],
     "drug_count": 1,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -58200,9 +58200,9 @@
       "ORAL.SUSP (500+213+325)MG/10ML"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -58227,9 +58227,9 @@
       "(500+213+325)MG/10ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -58254,9 +58254,9 @@
       "CHW.TAB (250+133,5+80)mg/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -58281,9 +58281,9 @@
       "ORAL.SUSP (250+133,5)MG/5ML FLx500 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -58308,9 +58308,9 @@
       "ORAL.SUSP (500+267+160)MG/10ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -58335,9 +58335,9 @@
       "TABLETS CHW.TAB (250+133,5+80 MG) TAB"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -59339,9 +59339,9 @@
       "2,25G/3ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -60541,9 +60541,9 @@
       "F.C.TAB (500+150)MG/TAB"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -60934,9 +60934,9 @@
       "F.C.TAB (200+30)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -61358,9 +61358,9 @@
       "CUT.SOL 5% FL x 60 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -61775,9 +61775,9 @@
       "HELPOSOL CREAM 5% TUBx2G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -62040,9 +62040,9 @@
       "INJ.SOL 25000IU/5ML VIAL"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -62153,9 +62153,9 @@
       "GEL (175 IU+5 MG)/G"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -62238,8 +62238,8 @@
       "SYR 100MG/5ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -62265,9 +62265,9 @@
       "TAB (500+25)MG/TAB (Night tabs)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -62292,9 +62292,9 @@
       "0,2% FLx40 ML+ψεκαστήρα"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -62319,9 +62319,9 @@
       "0,1% W/V FL x 200 ML (Γυάλινο φιαλίδιο)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -62374,8 +62374,8 @@
       "NASPR.SOL 1MG/ML BOTTLEx10ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -62401,9 +62401,9 @@
       "NASPR.SOL (1+50)MG/ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -62539,9 +62539,9 @@
       "CAPS 100MG/CAP"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -64277,9 +64277,9 @@
       "CAP)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -64427,9 +64427,9 @@
       "F.C.TAB (200+500)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -64884,9 +64884,9 @@
       "OINTMENT (12+54+72)MG/G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -65533,9 +65533,9 @@
       "2MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -65560,9 +65560,9 @@
       "CAPS 2MG/CAP ΒΤx6 (BLISTER 1x6)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -65726,9 +65726,9 @@
       "PD.OR.SD 10G/SACHET"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -65866,9 +65866,9 @@
       "C.TAB (8+4+6+4+10+4+12)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -66211,9 +66211,9 @@
       "ORAL.SUSP 4% (W/V) FLx50 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -66355,8 +66355,8 @@
       "28% W/W"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -70329,9 +70329,9 @@
       "TAB (500+30)MG/TAB"
     ],
     "drug_count": 2,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -71023,9 +71023,9 @@
       "F.C.TAB 20MG/TAB ΒΤ x 30 (3 BLISTx10)"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -71050,9 +71050,9 @@
       "LING.TAB 10MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -71673,9 +71673,9 @@
       "GEL 1MG/G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -72700,9 +72700,9 @@
       "28% W/W (ή 280mg/1g)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -72826,8 +72826,8 @@
       "CREAM 1% TUBx15G (laminated tube)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -72854,9 +72854,9 @@
       "SPR.SOL 1% FLx30ML(ΑΝΤΛΙΑ ψεκασμού)"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 3,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -75115,9 +75115,9 @@
       "OINTMENT 10% TUBX20G"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -75144,9 +75144,9 @@
       "INJ.SOL 200MG/20ML VIAL"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -75838,9 +75838,9 @@
       "SYR 30MG/5ML FLx200 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -76461,9 +76461,9 @@
       "EF.TAB 600MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -76681,9 +76681,9 @@
       "SOFT.CAPS 1000MG/CAP"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -76708,9 +76708,9 @@
       "(390+265)MG/5ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -77174,9 +77174,9 @@
       "EYE.GEL 0.2% 3TUBSX10G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -77546,9 +77546,9 @@
       "0,05% (W/V) FLx4 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -77573,9 +77573,9 @@
       "0,05% (W/V) FLx10 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -77888,9 +77888,9 @@
       "5% (W/V) FLx5 ML +30 χαρτομάντιλα εμποτισμένα το καθένα με 0,5 ml διαλύτη +10 σπάτουλες από πολυαιθυλένιο+30 χάρτινες λίμες"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -78260,9 +78260,9 @@
       "NASPR.SOL (4+0.2)% (W/V)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -78483,9 +78483,9 @@
       "CAPS 2MG/CAP"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -79119,9 +79119,9 @@
       "5% W/W ΦΙΑΛΗ (HDPE) x 60 G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -80162,9 +80162,9 @@
       "LOZ (20+10) mg/TAB Πλαστικός Σωλήνας PP-BTx20 (Plastic Tube PP)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -80306,9 +80306,9 @@
       "ORAL.SUSP (200+114) MG/5 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -80333,9 +80333,9 @@
       "CHW.TAB (400+400)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -80363,9 +80363,9 @@
       "ORAL.SUSP (114+200+25)MG/5ML"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -80477,9 +80477,9 @@
       "SOFT.CAPS 1000MG/CAP BOTTLE (HDPE)x30 CAPS"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -80534,9 +80534,9 @@
       "MADECASSOL PD.EXT.US 2% FLX2G"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -80589,9 +80589,9 @@
       "OR.SOL.SDC 1,5G/10ML VIAL (ORAL)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -82054,9 +82054,9 @@
       "0,1% FLX5ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -82285,9 +82285,9 @@
       "F.C.TAB (450+50) MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -85632,9 +85632,9 @@
       "REC.SOL (0,4500+0,0645+4,4650)G/5ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -85995,9 +85995,9 @@
       "ORAL.SUSP 425MG/5ML FLX340ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -86022,9 +86022,9 @@
       "OINTMENT 2000 IU/G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -86219,9 +86219,9 @@
       "PD.ORA.SOL 1,884(1,5)G/SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -86247,9 +86247,9 @@
       "GEL.EXT.US 1% (W/W)"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -86274,9 +86274,9 @@
       "180MG"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -86357,9 +86357,9 @@
       "F.C.TAB 10MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -86618,9 +86618,9 @@
       "CUT.SOL 5% W/V FLx60ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -87810,9 +87810,9 @@
       "(0.2+0.05) % W/V"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -88364,8 +88364,8 @@
       "SYR 15MG/5ML FLX125ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -88393,9 +88393,9 @@
       "MUCOSOLVAN SYR 30MG/5ML FLx 200ML"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 6,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -88421,9 +88421,9 @@
       "SYR 250MG/5ML FLx200ML a graduated measuring cup"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -88448,9 +88448,9 @@
       "SYR 30MG/5ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -88779,9 +88779,9 @@
       "SPR.SOL 1% W/W"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -89578,9 +89578,9 @@
       "NASPR.SOL (0,1+5,0)% W/V"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -90229,9 +90229,9 @@
       "2%(W/W) FLx180ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -90284,9 +90284,9 @@
       "CUT.SOL 1% FLX20ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -90396,9 +90396,9 @@
       "INJ.SOL 2.5MG/1ML AMP"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -90650,9 +90650,9 @@
       "PD.ORA.SOL 1,884 (1,5)G/SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -91623,9 +91623,9 @@
       "2MG/GUM ΒΤx105"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -91652,9 +91652,9 @@
       "25MG/16H"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 6,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -91680,9 +91680,9 @@
       "4MG/GUM"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -91708,9 +91708,9 @@
       "4MG/GUM"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -91735,9 +91735,9 @@
       "10MG/UNIT"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -91763,9 +91763,9 @@
       "QUICKSPRAY MOUTH SPR 1MG/SPRAY 1x1 Dispenserx13,2ML (σε φιάλη PET)"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -91874,9 +91874,9 @@
       "CAPS 250MG/CAP ΒΤ x 20"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -92263,9 +92263,9 @@
       "GEL.EXT.US 3%"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -92953,9 +92953,9 @@
       "4MG/ML FLX15ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -93272,9 +93272,9 @@
       "CREAM 20% W/W TUB x 30 G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -93356,9 +93356,9 @@
       "TAB 1,5MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -93817,9 +93817,9 @@
       "F.C.TAB (200+500)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -93876,9 +93876,9 @@
       "NOVAQUASOL A CREAM 7,055IU/G+20MG TUBX50G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -94433,9 +94433,9 @@
       "100% FLX240ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -94601,9 +94601,9 @@
       "SOFT.CAPS 400MG/CAP"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -94628,9 +94628,9 @@
       "F.C.TAB (200+30)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -94655,9 +94655,9 @@
       "200MG"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -94683,9 +94683,9 @@
       "C.TAB 512MG/TAB"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -94739,9 +94739,9 @@
       "CAPSULES SOFT.CAPS 200MG/CAP"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -94766,9 +94766,9 @@
       "CHW.CAP 100MG/CAP"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -94793,9 +94793,9 @@
       "ORAL.SOL (791+527)MG/5ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -94903,8 +94903,8 @@
       "ORAL.SUSP 100.000 IU/ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -95240,9 +95240,9 @@
       "CUT.SOL 0,1%+2% W/W BOTTLEX50ML+ Σύστημα ψεκασμού"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -95763,9 +95763,9 @@
       "GRANULES 25MG/SACHET"
     ],
     "drug_count": 4,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -96202,9 +96202,9 @@
       "SYR 30MG/5ML FL x 125 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -97373,9 +97373,9 @@
       "SOFT.CAPS 1000MG/CAP"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -99442,9 +99442,9 @@
       "LOZ (1+1)MG/LOZ"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -99469,9 +99469,9 @@
       "(0,2%+0,15%) W/V"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -99964,9 +99964,9 @@
       "EA.SOL 12MG/ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -100129,9 +100129,9 @@
       "NAS.SOL 0,05% (W/V) BOTTLE x 10ML με σταγονόμετρο"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -100156,9 +100156,9 @@
       "NASPR.SOL (ΣΤΑΘΕΡΩΝ ΔΟΣΕΩΝ) 0,1%W/V FLx10ML (71DOSES+ ΔΟΣΙΜΕΤΡΙΚΗ ΑΝΤΛΙΑ ΨΕΚΑΣΜΟΥ+ΕΞΑΡΤΗΜΑ ΡΙΝΙΚΗΣ ΠΡΟΣΑΡΜΟΓΗΣ)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -100183,9 +100183,9 @@
       "NASPR.SOL (0,1% (W/V) BOTTLEx10ML με ψεκαστήρα"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -100210,9 +100210,9 @@
       "NASPR.SOL (ΣΤΑΘΕΡΩΝ ΔΟΣΕΩΝ) 0,1%W/V"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -100237,9 +100237,9 @@
       "NASPR.SOL (ΣΤΑΘΕΡΩΝ ΔΟΣΕΩΝ) 0,05%W/V"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -100264,9 +100264,9 @@
       "NASPR.SOL (0,5+0,6)MG/ML BOTTLE x 10 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -100291,9 +100291,9 @@
       "NAS.SOL 0,1% W/V BOTTLE x 10ML με σταγονόμετρο"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -100931,9 +100931,9 @@
       "CUT.SOL 3% (W/V) FLx500 ML (με βιδωτό πώμα)"
     ],
     "drug_count": 4,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -101517,9 +101517,9 @@
       "CUT.SOL 4% W/W"
     ],
     "drug_count": 2,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -101871,9 +101871,9 @@
       "SUPP 250MG/SUP"
     ],
     "drug_count": 4,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 6,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -101898,9 +101898,9 @@
       "F.C.TAB 500MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -101925,9 +101925,9 @@
       "F.C.TAB 500MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -101952,9 +101952,9 @@
       "F.C.TAB (500+30)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -101980,9 +101980,9 @@
       "PD.ORA.SOL (1000+200+12.2)MG/SACHET"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -102008,9 +102008,9 @@
       "F.C.TAB (500+65)MG/TAB"
     ],
     "drug_count": 5,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -102066,9 +102066,9 @@
       "PANMIGRAN F.C.TAB (250+250+65)MG/TAB ium foil lidding material)BTx 20"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -103218,9 +103218,9 @@
       "CUT.SOL 1,5% (W/W) BOTTLEx60ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -103473,9 +103473,9 @@
       "TAB 1000MG/TAB"
     ],
     "drug_count": 2,
-    "doc_count": 0,
+    "doc_count": 2,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -103500,9 +103500,9 @@
       "1000MG/SACHET ΒΤx30 SACHETS"
     ],
     "drug_count": 1,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -103527,9 +103527,9 @@
       "1000MG/5ML SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -103778,9 +103778,9 @@
       "150 MG/SUP"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -104122,9 +104122,9 @@
       "EY.DRO.SOL 5% FLx10ML"
     ],
     "drug_count": 5,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -104319,9 +104319,9 @@
       "PD.ORA.SOL (0,01+3,5+12)G/SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -105721,9 +105721,9 @@
       "2.5MG/ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -106586,9 +106586,9 @@
       "TAB 1.500 MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -107784,9 +107784,9 @@
       "OINT.REC.A (1+3)% TUB x 25 G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -108700,9 +108700,9 @@
       "SUPP SUPP(0,10+40)MG/SUPP ΒT x 6"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -108727,8 +108727,8 @@
       "PROCTOSOLVEN® OINT.REC.A (0.5+0.5)% W/W"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -109002,9 +109002,9 @@
       "SOFT.CAPS 500 (90+60)MG/CAP ΒΤΧ120(ΣΕ BLIST)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -109419,9 +109419,9 @@
       "ORAL.SOL 35MG/5ML FLx200 ML"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -109446,9 +109446,9 @@
       "LOZ 26MG/LOZ"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -110232,9 +110232,9 @@
       "SYR 250MG/5ML FLx200 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -110317,9 +110317,9 @@
       "CUT.SP.PD (10811 UC+2,23MG)/G FLx148G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -110431,8 +110431,8 @@
       "OR.T.SOL 1%+5% W/V FL x 10 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -110573,9 +110573,9 @@
       "CUT.SOL 1,5% W/W"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -112680,9 +112680,9 @@
       "PD.ORA.SOL 1,884(1,5)G/SACHET"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -112969,9 +112969,9 @@
       "5MG/ML ΒΤx30 (περιέκτης μιας δόσης) x 0,4 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -112998,9 +112998,9 @@
       "CUT.SOL 5% W/V FL x 60 ML"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -113025,9 +113025,9 @@
       "50MG/G (5% W/W)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -113052,9 +113052,9 @@
       "5% (w/w) BOTTLEx60 G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -113174,9 +113174,9 @@
       "SOFT.CAPS 80MG/CAP"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -113553,9 +113553,9 @@
       "GEL.EXT.US 1% TUBX100G"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -114871,9 +114871,9 @@
       "2MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -115582,9 +115582,9 @@
       "GEL.ORAL 800MG/SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -116855,9 +116855,9 @@
       "spray)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -116999,9 +116999,9 @@
       "22MCG/DOSE FLX10ML(225DOSES)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -117026,9 +117026,9 @@
       "SYR 7,5MG/5ML FLX200ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -118581,9 +118581,9 @@
       "GEL.EXT.US 1% TUBX100G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -119089,9 +119089,9 @@
       "CUT.SOL 1,5% W/W BOTTLEx60 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -119479,9 +119479,9 @@
       "0.463MG/CM2 SACHET x 1 PLASTER x 234 cm2"
     ],
     "drug_count": 2,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -119508,9 +119508,9 @@
       "(1,32+1,20+0,26+0,42)MG/CM2 ΒΤx1POUCHEx10plaster"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -119535,9 +119535,9 @@
       "10%+3%"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -119626,9 +119626,9 @@
       "EF.TAB (500+300)MG/TAB ΒΤx12(FOIST3x4)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -120397,9 +120397,9 @@
       "OINT.REC.A (0,19+0,5)% TUBx30G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -120424,9 +120424,9 @@
       "5% (W/V)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -120451,8 +120451,8 @@
       "SOFT.CAPS 1000MG/CAP"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -120566,9 +120566,9 @@
       "C.TAB 200MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -120591,8 +120591,8 @@
       "F.C.TAB 500MG/TAB"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -121127,8 +121127,8 @@
       "CUT.SOL 2% (W/V)"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -121154,9 +121154,9 @@
       "EY.DRO.SOL 0.1%+1% FLX10ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -121181,9 +121181,9 @@
       "F.C.TAB 400MG/TAB"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -123021,9 +123021,9 @@
       "CHW.TAB (25+282+85)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -123390,9 +123390,9 @@
       "SYR 7,5MG/5ML FLx200 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -123566,9 +123566,9 @@
       "C.TAB 160MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -123593,9 +123593,9 @@
       "SYR 6G/100ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -124703,9 +124703,9 @@
       "CUT.SOL 95,7447GEthanol 96%/ Επιτοίχιο δοχείο x1L"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -124731,9 +124731,9 @@
       "GEL.EXT.US 15% W/W"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -124902,9 +124902,9 @@
       "PD.ORA.SUS 3G/SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -124929,9 +124929,9 @@
       "CUT.SOL 1.2% (W/W)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -125186,9 +125186,9 @@
       "F.C.TAB (450+50)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -125746,8 +125746,8 @@
       "EY.DRO.SOL 2% W/V"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -126311,9 +126311,9 @@
       "SOLU-KET MOUTH.WASH 1,6% (W/V) BOTTLEx150 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -127396,9 +127396,9 @@
       "TAB (400+200+50)MG/TAB ΒΤx10 (ΣΕ BLISTER)"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -128131,9 +128131,9 @@
       "2MG/CAP ΒΤx20"
     ],
     "drug_count": 6,
-    "doc_count": 0,
+    "doc_count": 3,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -128535,9 +128535,9 @@
       "LOZ 8.75MG/LOZ"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -128595,9 +128595,9 @@
       "LOZ 8,75MG/LOZ"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -128622,9 +128622,9 @@
       "LOZ 8,75MG/LOZ"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -128649,9 +128649,9 @@
       "8.75MG/DOSE"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -128676,9 +128676,9 @@
       "8.75MG/DOSE"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -128703,9 +128703,9 @@
       "LOZ (1,2+0,6)MG/LOZ ΒΤx24(BLIST2x12)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -128730,9 +128730,9 @@
       "LOZ (1,2+0,6)MG/LOZ"
     ],
     "drug_count": 2,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -128811,9 +128811,9 @@
       "LOZ (1,2+0,6)MG/LOZ"
     ],
     "drug_count": 1,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -128925,9 +128925,9 @@
       "SYR 30MG/5ML FLx200 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -129034,9 +129034,9 @@
       "PD.ORA.SOL (3.5+12.0+0.010)G/SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -129984,9 +129984,9 @@
       "2.5MG/CAP ΒΤΧ30(BLISTER 3X10)"
     ],
     "drug_count": 2,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -131084,9 +131084,9 @@
       "CHW.TAB 500MG/TAB ΒΤΧ20(BLIST PP/Alu 2X10)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -131283,9 +131283,9 @@
       "GRA.OR.SOL (500+200+25)MG/SACHET"
     ],
     "drug_count": 2,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -131716,9 +131716,9 @@
       "PD.ORA.SOL 10G/SACHET(1DOSE)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -131743,9 +131743,9 @@
       "LOZ 3MG/LOZ"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -131770,9 +131770,9 @@
       "LOZ 3MG/LOZ"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -131797,8 +131797,8 @@
       "0,5% W/W TUBX50G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -131826,9 +131826,9 @@
       "0,15% (W/V) FL x 500ML"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -131853,9 +131853,9 @@
       "LOZ 3MG/LOZ Orange-Honey"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -131881,9 +131881,9 @@
       "0.30% W/V FLx15 ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -132478,9 +132478,9 @@
       "EY.DRO.SOL 0,1%+0,3% W/V"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -132713,9 +132713,9 @@
       "400MG/TAB"
     ],
     "drug_count": 4,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -132825,9 +132825,9 @@
       "F.C.TAB 10MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -134453,9 +134453,9 @@
       "THILOGEL EYE.GEL 0,3% W/W"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -135625,9 +135625,9 @@
       "F.C.TAB 1.5MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -136623,9 +136623,9 @@
       "LOZ (0,5+1+1)MG/LOZEΝ"
     ],
     "drug_count": 1,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -137330,9 +137330,9 @@
       "CREAM 1% (W/W) TUB x 30 G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -137442,9 +137442,9 @@
       "PD.ORA.SUS 200MG/5ML FLX120ML"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -137471,9 +137471,9 @@
       "600MG/SACHET"
     ],
     "drug_count": 6,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 6,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -137498,9 +137498,9 @@
       "600MG/SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -140275,9 +140275,9 @@
       "F.C.TAB (500+200)MG/TAB"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -141400,9 +141400,9 @@
       "C.TAB 125MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
+    "doc_count": 1,
     "has_pil": false,
-    "has_smpc": false,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -141427,9 +141427,9 @@
       "C.TAB (200+68)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -143211,9 +143211,9 @@
       "F.C.TAB (450+50)MG/TAB"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -143756,9 +143756,9 @@
       "100% (V/V)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -144014,9 +144014,9 @@
       "TAB 500MG/TAB"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -144862,9 +144862,9 @@
       "TAB (20+40)MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -144889,9 +144889,9 @@
       "(120+75+30)MG/CAP"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -145402,8 +145402,8 @@
       "PD.ORA.SOL 1,884(1,5)G/SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -145518,9 +145518,9 @@
       "(0,39+0,39)G/ΤΕ Ενας πλαστικός κύλινδρος x1,00 ML επί χάρτινης κάρτας (display card)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -145545,9 +145545,9 @@
       "NASPR.SOL 0,5MG/ML BOTTLE x15ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -145573,9 +145573,9 @@
       "OINTMENT VASE x 50 G"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -145684,9 +145684,9 @@
       "EY.SOL.SD 1,6MG/0,5ML SING.DOS"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 4,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -146673,9 +146673,9 @@
       "CUT.SP.PD (1338,22+103,80)IU/G FL x 121,40 G"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -146963,9 +146963,9 @@
       "EYE.GEL 0,2% TUBx10G(ΠΛΑΣΤ.ΣΩΛΗΝ)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -147045,9 +147045,9 @@
       "EY.DRO.SOL 0.5MG/ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -147329,9 +147329,9 @@
       "EY.DRO.SOL 2% FLX10ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -147695,9 +147695,9 @@
       "140MG"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -147786,9 +147786,9 @@
       "VOLTAROL®EMULGEL GEL 1% W/W TUB (LAMINATED PE/ALU/PE-blue) x 150 GR"
     ],
     "drug_count": 3,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -147814,9 +147814,9 @@
       "GEL 2% TUBx100g Laminated tube with screw cap-\"triangular winged shape\""
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -149278,9 +149278,9 @@
       "SYR 10MG/5ML FL x 75 ML"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -149590,9 +149590,9 @@
       "PD.ORA.SOL 1,5G/SACHET"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -150839,9 +150839,9 @@
       "10% W/V FLx50ML(500 DOSES)"
     ],
     "drug_count": 2,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "EOF"
@@ -150895,9 +150895,9 @@
       "DENTAL.GEL (0.33+0.10)% (W/W)"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -151632,8 +151632,8 @@
       "EF.TAB 1500MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -152298,9 +152298,9 @@
       "5%"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
@@ -152726,8 +152726,8 @@
       "F.C.TAB 10MG/TAB"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -155034,8 +155034,8 @@
       "SOFT.CAPS 1000 MG/CAP"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
+    "doc_count": 1,
+    "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
@@ -156223,9 +156223,9 @@
       "CREAM (50+10)MG/G 1 TUBE (ALU) x 2g"
     ],
     "drug_count": 1,
-    "doc_count": 0,
-    "has_pil": false,
-    "has_smpc": false,
+    "doc_count": 2,
+    "has_pil": true,
+    "has_smpc": true,
     "has_labelling": false,
     "sources": [
       "MOH"
