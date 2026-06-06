@@ -8283,6 +8283,33 @@
     ]
   },
   {
+    "brand": "ANGASS CA.SOF.GR",
+    "md_file": "ANGASS-CA-SOF-GR.md",
+    "substances": [
+      "SODIUM BICARBONATE"
+    ],
+    "atc_codes": [
+      "A02AH"
+    ],
+    "primary_atc": "A02AH",
+    "atc_level1": "A",
+    "atc_level2": "A02",
+    "mahs": [
+      "MEDICE ARZNEIMITTEL PUTTER GMBH & CO KG, ISERLOHN, GERMANY"
+    ],
+    "package_forms": [
+      "500MG/CAP"
+    ],
+    "drug_count": 1,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
+    ]
+  },
+  {
     "brand": "ANGORON",
     "md_file": "ANGORON.md",
     "substances": [
@@ -8957,6 +8984,34 @@
     "has_labelling": false,
     "sources": [
       "EOF"
+    ]
+  },
+  {
+    "brand": "APIXABAN/MEDICAIR",
+    "md_file": "APIXABAN-MEDICAIR.md",
+    "substances": [
+      "APIXABAN"
+    ],
+    "atc_codes": [
+      "B01AF02"
+    ],
+    "primary_atc": "B01AF02",
+    "atc_level1": "B",
+    "atc_level2": "B01",
+    "mahs": [
+      "MEDICAIR BIOSCIENCE LABORATORIES ΑΝΩΝΥΜΟΣ ΦΑΡΜΑΚΕΥΤΙΚΗ ΕΤΑΙΡΕΙΑ Δ.Τ. MEDICAIR BIOSCIENCE LABORATORIES S.A."
+    ],
+    "package_forms": [
+      "F.C.TAB 2.5MG/TAB",
+      "F.C.TAB 5MG/TAB"
+    ],
+    "drug_count": 4,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
     ]
   },
   {
@@ -10388,6 +10443,34 @@
     ]
   },
   {
+    "brand": "ARIPIPRAZOLE/STADA",
+    "md_file": "ARIPIPRAZOLE-STADA.md",
+    "substances": [
+      "ARIPIPRAZOL MONOHYDRATE"
+    ],
+    "atc_codes": [
+      "N05AX12"
+    ],
+    "primary_atc": "N05AX12",
+    "atc_level1": "N",
+    "atc_level2": "N05",
+    "mahs": [
+      "STADA ARZNEIMITTEL AG, GERMANY"
+    ],
+    "package_forms": [
+      "PD.S.IN.PR 300MG/VIAL",
+      "PD.S.IN.PR 400MG/VIAL"
+    ],
+    "drug_count": 2,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
+    ]
+  },
+  {
     "brand": "ARISPPA",
     "md_file": "ARISPPA.md",
     "substances": [
@@ -11480,6 +11563,36 @@
     "has_labelling": false,
     "sources": [
       "EOF"
+    ]
+  },
+  {
+    "brand": "ASTIZIA",
+    "md_file": "ASTIZIA.md",
+    "substances": [
+      "APREMILAST"
+    ],
+    "atc_codes": [
+      "L04AA32"
+    ],
+    "primary_atc": "L04AA32",
+    "atc_level1": "L",
+    "atc_level2": "L04",
+    "mahs": [
+      "ELPEN AE ΦΑΡΜΑΚΕΥΤΙΚΗ ΒΙΟΜΗΧΑΝΙΑ"
+    ],
+    "package_forms": [
+      "F.C.TAB 20MG/TAB",
+      "F.C.TAB 20MG/TAB (συσκευασία έναρξης)",
+      "F.C.TAB 30MG/TAB",
+      "F.C.TAB 30MG/TAB (συσκευασία έναρξης)"
+    ],
+    "drug_count": 4,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
     ]
   },
   {
@@ -13938,16 +14051,18 @@
     ],
     "package_forms": [
       "DR.PD.INJ 1000MG/VIAL (I.M) ΒΤx1VIAL+1AMPx3.5ML SOLV",
+      "DR.PD.INJ 1000MG/VIAL (IV)",
       "DR.PD.INJ 1000MG/VIAL (IV) ΒΤx1VIAL+1AMPx10ML SOLV",
       "PD.SOL.INF 2000MG/VIAL (IV.INF)"
     ],
-    "drug_count": 3,
+    "drug_count": 4,
     "doc_count": 4,
     "has_pil": false,
     "has_smpc": true,
     "has_labelling": false,
     "sources": [
-      "EOF"
+      "EOF",
+      "MOH"
     ]
   },
   {
@@ -14740,6 +14855,33 @@
     "sources": [
       "EMA",
       "EOF"
+    ]
+  },
+  {
+    "brand": "BAVALDA",
+    "md_file": "BAVALDA.md",
+    "substances": [
+      "DALBAVANCIN HYDROCHLORIDE"
+    ],
+    "atc_codes": [
+      "J01XA04"
+    ],
+    "primary_atc": "J01XA04",
+    "atc_level1": "J",
+    "atc_level2": "J01",
+    "mahs": [
+      "ELPEN AE ΦΑΡΜΑΚΕΥΤΙΚΗ ΒΙΟΜΗΧΑΝΙΑ"
+    ],
+    "package_forms": [
+      "PD.C.S.INF 500MG/VIAL"
+    ],
+    "drug_count": 1,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
     ]
   },
   {
@@ -22981,19 +23123,21 @@
     "atc_level1": "J",
     "atc_level2": "J01",
     "mahs": [
-      "ΚΟΠΕΡ Α.Ε."
+      "ΚΟΠΕΡ Α.Ε.",
+      "ΚΟΠΕΡ Α.Ε., ΕΛΛΑΔΑ"
     ],
     "package_forms": [
       "PD.I.S.INF 1000MG/VIAL",
       "PD.I.S.INF 500MG/VIAL"
     ],
-    "drug_count": 4,
+    "drug_count": 5,
     "doc_count": 4,
     "has_pil": false,
     "has_smpc": true,
     "has_labelling": false,
     "sources": [
-      "EOF"
+      "EOF",
+      "MOH"
     ]
   },
   {
@@ -32459,6 +32603,33 @@
     ]
   },
   {
+    "brand": "DALBAVANCIN/BIOARS",
+    "md_file": "DALBAVANCIN-BIOARS.md",
+    "substances": [
+      "DALBAVANCIN HYDROCHLORIDE"
+    ],
+    "atc_codes": [
+      "J01XA04"
+    ],
+    "primary_atc": "J01XA04",
+    "atc_level1": "J",
+    "atc_level2": "J01",
+    "mahs": [
+      "BIOARS THERAPEUTICS Α.Ε. Δ.Τ. BIOARS, ΕΛΛΑΔΑ"
+    ],
+    "package_forms": [
+      "PD.C.S.INF 500MG/VIAL"
+    ],
+    "drug_count": 1,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
+    ]
+  },
+  {
     "brand": "DALBAVANCIN/TEVA",
     "md_file": "DALBAVANCIN-TEVA.md",
     "substances": [
@@ -32682,6 +32853,34 @@
     ]
   },
   {
+    "brand": "DAPAGLIFLOZIN/WIN",
+    "md_file": "DAPAGLIFLOZIN-WIN.md",
+    "substances": [
+      "DAPAGLIFLOZIN"
+    ],
+    "atc_codes": [
+      "A10BK01"
+    ],
+    "primary_atc": "A10BK01",
+    "atc_level1": "A",
+    "atc_level2": "A10",
+    "mahs": [
+      "WIN MEDICA ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ Δ.Τ. WIN MEDICA A.E., ΕΛΛΑΔΑ"
+    ],
+    "package_forms": [
+      "DAPAGLIFLOZIN/WIN MEDICA F.C.TAB 10MG/TAB",
+      "DAPAGLIFLOZIN/WIN MEDICA F.C.TAB 5MG/TAB"
+    ],
+    "drug_count": 4,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
+    ]
+  },
+  {
     "brand": "DAPAGLUT",
     "md_file": "DAPAGLUT.md",
     "substances": [
@@ -32707,6 +32906,34 @@
     "has_labelling": false,
     "sources": [
       "EOF"
+    ]
+  },
+  {
+    "brand": "DAPIMEFA",
+    "md_file": "DAPIMEFA.md",
+    "substances": [
+      "DAPAGLIFLOZIN PROPANEDIOL MONOHYDRATE,METFORMIN HYDROCHLORIDE"
+    ],
+    "atc_codes": [
+      "A10BD15"
+    ],
+    "primary_atc": "A10BD15",
+    "atc_level1": "A",
+    "atc_level2": "A10",
+    "mahs": [
+      "INNOVIS PHARMA ΑΝΩΝΥΜΗ ΕΜΠΟΡΙΚΗ ΚΑΙ ΒΙΟΜΗΧΑΝΙΚΗ ΕΤΑΙΡΕΙΑ ΦΑΡΜΑΚΕΥΤΙΚΩΝ ΙΑΤΡΙΚΩΝ ΚΑΙ ΚΑΛΛΥΝΤΙΚΩΝ ΠΡΟΪΟΝΤΩΝ Δ.Τ. INNOVIS PHARMA A.E.B.E."
+    ],
+    "package_forms": [
+      "F.C.TAB (5+1000)MG/TAB",
+      "F.C.TAB (5+850)MG/TAB"
+    ],
+    "drug_count": 4,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
     ]
   },
   {
@@ -38605,6 +38832,34 @@
     ]
   },
   {
+    "brand": "DOFLIGA",
+    "md_file": "DOFLIGA.md",
+    "substances": [
+      "DAPAGLIFLOZIN"
+    ],
+    "atc_codes": [
+      "A10BK01"
+    ],
+    "primary_atc": "A10BK01",
+    "atc_level1": "A",
+    "atc_level2": "A10",
+    "mahs": [
+      "ELPEN AE ΦΑΡΜΑΚΕΥΤΙΚΗ ΒΙΟΜΗΧΑΝΙΑ"
+    ],
+    "package_forms": [
+      "F.C.TAB 10MG/TAB",
+      "F.C.TAB 5MG/TAB"
+    ],
+    "drug_count": 4,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
+    ]
+  },
+  {
     "brand": "DOGMATYL",
     "md_file": "DOGMATYL.md",
     "substances": [
@@ -41191,6 +41446,35 @@
     ]
   },
   {
+    "brand": "EBILFUMIN",
+    "md_file": "EBILFUMIN.md",
+    "substances": [
+      "OSELTAMIVIR"
+    ],
+    "atc_codes": [
+      "J05AH02"
+    ],
+    "primary_atc": "J05AH02",
+    "atc_level1": "J",
+    "atc_level2": "J05",
+    "mahs": [
+      "ACTAVIS GROUP PTC EHF., ICELAND"
+    ],
+    "package_forms": [
+      "CAPS 30MG/CAP",
+      "CAPS 45MG/CAP",
+      "CAPS 75MG/CAP"
+    ],
+    "drug_count": 3,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
+    ]
+  },
+  {
     "brand": "EBIMEM",
     "md_file": "EBIMEM.md",
     "substances": [
@@ -42423,6 +42707,34 @@
     "has_labelling": false,
     "sources": [
       "EOF"
+    ]
+  },
+  {
+    "brand": "ELIPTICUS®",
+    "md_file": "ELIPTICUS.md",
+    "substances": [
+      "APIXABAN"
+    ],
+    "atc_codes": [
+      "B01AF02"
+    ],
+    "primary_atc": "B01AF02",
+    "atc_level1": "B",
+    "atc_level2": "B01",
+    "mahs": [
+      "MEDICAL PHARMAQUALITY ΦΑΡΜ/ΚΗ ΑΕ ΔΤ.MEDICAL PHARMAQUALITY AE"
+    ],
+    "package_forms": [
+      "F.C.TAB 2.5MG/TAB",
+      "F.C.TAB 5MG/TAB"
+    ],
+    "drug_count": 4,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
     ]
   },
   {
@@ -60094,6 +60406,33 @@
     ]
   },
   {
+    "brand": "GLUNAVA",
+    "md_file": "GLUNAVA.md",
+    "substances": [
+      "LINAGLIPTIN"
+    ],
+    "atc_codes": [
+      "A10BH05"
+    ],
+    "primary_atc": "A10BH05",
+    "atc_level1": "A",
+    "atc_level2": "A10",
+    "mahs": [
+      "MEDOCHEMIE HELLAS AE ΠΑΡΑΣ.& ΕΜΠΟΡ.ΦΑΡΜ.& Φ/ΚΩΝ ΠΡ. Δ.Τ. MEDOCHEMIE HELLAS A.E."
+    ],
+    "package_forms": [
+      "F.C.TAB 5MG/TAB"
+    ],
+    "drug_count": 1,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
+    ]
+  },
+  {
     "brand": "GLUSOD",
     "md_file": "GLUSOD.md",
     "substances": [
@@ -62346,13 +62685,14 @@
       "P.SV.INJ.F 400MG/VIAL",
       "P.SV.INJ.F 400MG/VIAL (Γενόσημο)"
     ],
-    "drug_count": 2,
+    "drug_count": 3,
     "doc_count": 2,
     "has_pil": true,
     "has_smpc": true,
     "has_labelling": false,
     "sources": [
-      "EOF"
+      "EOF",
+      "MOH"
     ]
   },
   {
@@ -68761,6 +69101,33 @@
     ]
   },
   {
+    "brand": "ITRACONAZOLE/KLEVA",
+    "md_file": "ITRACONAZOLE-KLEVA.md",
+    "substances": [
+      "ITRACONAZOLE"
+    ],
+    "atc_codes": [
+      "J02AC02"
+    ],
+    "primary_atc": "J02AC02",
+    "atc_level1": "J",
+    "atc_level2": "J02",
+    "mahs": [
+      "ΚΛΕΒΑ ΑΦΒΕΕ, ΕΛΛΑΔΑ"
+    ],
+    "package_forms": [
+      "ORAL.SOL 10MG/ML"
+    ],
+    "drug_count": 1,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
+    ]
+  },
+  {
     "brand": "ITRAZOL",
     "md_file": "ITRAZOL.md",
     "substances": [
@@ -68899,6 +69266,33 @@
     "has_labelling": false,
     "sources": [
       "EOF"
+    ]
+  },
+  {
+    "brand": "IVACAFTOR/WIN MEDICA",
+    "md_file": "IVACAFTOR-WIN-MEDICA.md",
+    "substances": [
+      "IVACAFTOR"
+    ],
+    "atc_codes": [
+      "R07AX02"
+    ],
+    "primary_atc": "R07AX02",
+    "atc_level1": "R",
+    "atc_level2": "R07",
+    "mahs": [
+      "WIN MEDICA ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ Δ.Τ. WIN MEDICA A.E., ΕΛΛΑΔΑ"
+    ],
+    "package_forms": [
+      "F.C.TAB 150MG/TAB"
+    ],
+    "drug_count": 1,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
     ]
   },
   {
@@ -72206,6 +72600,33 @@
     ]
   },
   {
+    "brand": "LABRYCOR",
+    "md_file": "LABRYCOR.md",
+    "substances": [
+      "ISOPRENALINE HYDROCHLORIDE"
+    ],
+    "atc_codes": [
+      "C01CA02"
+    ],
+    "primary_atc": "C01CA02",
+    "atc_level1": "C",
+    "atc_level2": "C01",
+    "mahs": [
+      "MACURE HEALTHCARE LIMITED, MALTA"
+    ],
+    "package_forms": [
+      "C/S.SOL.IN 0.2MG/ML"
+    ],
+    "drug_count": 1,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
+    ]
+  },
+  {
     "brand": "LACIPIL",
     "md_file": "LACIPIL.md",
     "substances": [
@@ -74613,6 +75034,34 @@
     ]
   },
   {
+    "brand": "LENVATINIB/ELPEN",
+    "md_file": "LENVATINIB-ELPEN.md",
+    "substances": [
+      "LENVATINIB BESILATE"
+    ],
+    "atc_codes": [
+      "L01EX08"
+    ],
+    "primary_atc": "L01EX08",
+    "atc_level1": "L",
+    "atc_level2": "L01",
+    "mahs": [
+      "ELPEN AE ΦΑΡΜΑΚΕΥΤΙΚΗ ΒΙΟΜΗΧΑΝΙΑ"
+    ],
+    "package_forms": [
+      "CAPS 10MG/CAP",
+      "CAPS 4MG/CAP"
+    ],
+    "drug_count": 2,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
+    ]
+  },
+  {
     "brand": "LENVATINIB/TEVA",
     "md_file": "LENVATINIB-TEVA.md",
     "substances": [
@@ -76470,6 +76919,33 @@
     ]
   },
   {
+    "brand": "LINAGLUT",
+    "md_file": "LINAGLUT.md",
+    "substances": [
+      "LINAGLIPTIN"
+    ],
+    "atc_codes": [
+      "A10BH05"
+    ],
+    "primary_atc": "A10BH05",
+    "atc_level1": "A",
+    "atc_level2": "A10",
+    "mahs": [
+      "VIOFAR ΕΠΕ, ΕΛΛΑΔΑ"
+    ],
+    "package_forms": [
+      "F.C.TAB 5MG/TAB"
+    ],
+    "drug_count": 3,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
+    ]
+  },
+  {
     "brand": "LINESOL",
     "md_file": "LINESOL.md",
     "substances": [
@@ -77859,13 +78335,14 @@
       "CAPS 200MG/CAP",
       "CAPS 50MG/CAP"
     ],
-    "drug_count": 5,
+    "drug_count": 7,
     "doc_count": 1,
     "has_pil": false,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
-      "EOF"
+      "EOF",
+      "MOH"
     ]
   },
   {
@@ -80403,6 +80880,33 @@
     ]
   },
   {
+    "brand": "MACITENTAN ACCORDPHARMA",
+    "md_file": "MACITENTAN-ACCORDPHARMA.md",
+    "substances": [
+      "MACITENTAN"
+    ],
+    "atc_codes": [
+      "C02KX04"
+    ],
+    "primary_atc": "C02KX04",
+    "atc_level1": "C",
+    "atc_level2": "C02",
+    "mahs": [
+      "ACCORD HEALTHCARE S.L.U., SPAIN"
+    ],
+    "package_forms": [
+      "F.C.TAB 10MG/TAB"
+    ],
+    "drug_count": 1,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
+    ]
+  },
+  {
     "brand": "MACLADIN",
     "md_file": "MACLADIN.md",
     "substances": [
@@ -82172,6 +82676,33 @@
     "has_labelling": false,
     "sources": [
       "EOF"
+    ]
+  },
+  {
+    "brand": "MAXIVALEN",
+    "md_file": "MAXIVALEN.md",
+    "substances": [
+      "SOYA OIL,TRIGLYCERIDES MEDIUM CHAIN,OLIVE OIL, REFINED,FISH OIL (OMEGA-3 POLYUNSATURATED FATTY ACIDS)"
+    ],
+    "atc_codes": [
+      "B05BA02"
+    ],
+    "primary_atc": "B05BA02",
+    "atc_level1": "B",
+    "atc_level2": "B05",
+    "mahs": [
+      "DEMO ABEE"
+    ],
+    "package_forms": [
+      "INJ.EM.INF 200MG/ML"
+    ],
+    "drug_count": 2,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
     ]
   },
   {
@@ -92327,6 +92858,34 @@
     ]
   },
   {
+    "brand": "NINDRAF",
+    "md_file": "NINDRAF.md",
+    "substances": [
+      "NINTEDANIB ESYLATE"
+    ],
+    "atc_codes": [
+      "L01EX09"
+    ],
+    "primary_atc": "L01EX09",
+    "atc_level1": "L",
+    "atc_level2": "L01",
+    "mahs": [
+      "ELPEN AE ΦΑΡΜΑΚΕΥΤΙΚΗ ΒΙΟΜΗΧΑΝΙΑ"
+    ],
+    "package_forms": [
+      "SOFT.CAPS 100MG/CAP",
+      "SOFT.CAPS 150MG/CAP"
+    ],
+    "drug_count": 2,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
+    ]
+  },
+  {
     "brand": "NINLARO",
     "md_file": "NINLARO.md",
     "substances": [
@@ -99640,6 +100199,34 @@
     "has_labelling": false,
     "sources": [
       "EOF"
+    ]
+  },
+  {
+    "brand": "ORVAGO",
+    "md_file": "ORVAGO.md",
+    "substances": [
+      "SAFINAMIDE MESILATE"
+    ],
+    "atc_codes": [
+      "N04BD03"
+    ],
+    "primary_atc": "N04BD03",
+    "atc_level1": "N",
+    "atc_level2": "N04",
+    "mahs": [
+      "ELPEN AE ΦΑΡΜΑΚΕΥΤΙΚΗ ΒΙΟΜΗΧΑΝΙΑ"
+    ],
+    "package_forms": [
+      "F.C.TAB 100MG/TAB",
+      "F.C.TAB 50MG/TAB"
+    ],
+    "drug_count": 2,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
     ]
   },
   {
@@ -107793,6 +108380,34 @@
     ]
   },
   {
+    "brand": "PREPIXAN",
+    "md_file": "PREPIXAN.md",
+    "substances": [
+      "APIXABAN"
+    ],
+    "atc_codes": [
+      "B01AF02"
+    ],
+    "primary_atc": "B01AF02",
+    "atc_level1": "B",
+    "atc_level2": "B01",
+    "mahs": [
+      "ΒΙΑΝΕΞ Α.Ε. ΑΝΩΝΥΜΟΣ ΕΜΠΟΡΟΒΙΟΜΗΧΑΝΙΚΗ-ΤΟΥΡΙΣΤΙΚΗ-ΞΕΝΟΔΟΧΕΙΑΚΗ ΚΑΙ ΝΑΥΤΙΛΙΑΚΗ ΑΝΩΝΥΜΟΣ ΕΤΑΙΡΕΙΑ Δ.Τ. ΒΙΑΝΕΞ Α.Ε."
+    ],
+    "package_forms": [
+      "F.C.TAB 2.5MG/TAB",
+      "F.C.TAB 5MG/TAB"
+    ],
+    "drug_count": 4,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
+    ]
+  },
+  {
     "brand": "PRESIDIN/BENNETT",
     "md_file": "PRESIDIN-BENNETT.md",
     "substances": [
@@ -110071,6 +110686,34 @@
     "has_labelling": false,
     "sources": [
       "EOF"
+    ]
+  },
+  {
+    "brand": "PUBLICEN",
+    "md_file": "PUBLICEN.md",
+    "substances": [
+      "EDOXABAN TOSYLATE MONOHYDRATE"
+    ],
+    "atc_codes": [
+      "B01AF03"
+    ],
+    "primary_atc": "B01AF03",
+    "atc_level1": "B",
+    "atc_level2": "B01",
+    "mahs": [
+      "GENEPHARM AE, ΕΛΛΑΔΑ"
+    ],
+    "package_forms": [
+      "F.C.TAB 30MG/TAB",
+      "F.C.TAB 60MG/TAB"
+    ],
+    "drug_count": 2,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
     ]
   },
   {
@@ -117152,6 +117795,34 @@
     ]
   },
   {
+    "brand": "ROSADIM",
+    "md_file": "ROSADIM.md",
+    "substances": [
+      "TORASEMIDE"
+    ],
+    "atc_codes": [
+      "C03CA04"
+    ],
+    "primary_atc": "C03CA04",
+    "atc_level1": "C",
+    "atc_level2": "C03",
+    "mahs": [
+      "ΒΙΑΝΕΞ Α.Ε. ΑΝΩΝΥΜΟΣ ΕΜΠΟΡΟΒΙΟΜΗΧΑΝΙΚΗ-ΤΟΥΡΙΣΤΙΚΗ-ΞΕΝΟΔΟΧΕΙΑΚΗ ΚΑΙ ΝΑΥΤΙΛΙΑΚΗ ΑΝΩΝΥΜΟΣ ΕΤΑΙΡΕΙΑ Δ.Τ. ΒΙΑΝΕΞ Α.Ε."
+    ],
+    "package_forms": [
+      "TABLET 10MG/TAB",
+      "TABLET 5MG/TAB"
+    ],
+    "drug_count": 2,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
+    ]
+  },
+  {
     "brand": "ROSARTIA",
     "md_file": "ROSARTIA.md",
     "substances": [
@@ -118148,13 +118819,14 @@
       "F.C.TAB 2.5MG/TAB",
       "F.C.TAB 20MG/TAB"
     ],
-    "drug_count": 5,
+    "drug_count": 9,
     "doc_count": 4,
     "has_pil": true,
     "has_smpc": false,
     "has_labelling": false,
     "sources": [
-      "EOF"
+      "EOF",
+      "MOH"
     ]
   },
   {
@@ -136256,6 +136928,33 @@
     ]
   },
   {
+    "brand": "TORMIS-IV®",
+    "md_file": "TORMIS-IV.md",
+    "substances": [
+      "TORASEMIDE"
+    ],
+    "atc_codes": [
+      "C03CA04"
+    ],
+    "primary_atc": "C03CA04",
+    "atc_level1": "C",
+    "atc_level2": "C03",
+    "mahs": [
+      "WIN MEDICA ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ Δ.Τ. WIN MEDICA A.E., ΕΛΛΑΔΑ"
+    ],
+    "package_forms": [
+      "INJ.SOL 10MG/AMP (2ML)"
+    ],
+    "drug_count": 1,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
+    ]
+  },
+  {
     "brand": "TORVACARD NEO",
     "md_file": "TORVACARD-NEO.md",
     "substances": [
@@ -137592,6 +138291,33 @@
     "has_labelling": false,
     "sources": [
       "EOF"
+    ]
+  },
+  {
+    "brand": "TREOSULFAN/TILLOMED",
+    "md_file": "TREOSULFAN-TILLOMED.md",
+    "substances": [
+      "TREOSULFAN"
+    ],
+    "atc_codes": [
+      "L01AB02"
+    ],
+    "primary_atc": "L01AB02",
+    "atc_level1": "L",
+    "atc_level2": "L01",
+    "mahs": [
+      "LABORATORIOS TILLOMED SPAIN S.L.U., SPAIN"
+    ],
+    "package_forms": [
+      "PD.SOL.INF 5G"
+    ],
+    "drug_count": 1,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
     ]
   },
   {
@@ -141023,6 +141749,33 @@
     ]
   },
   {
+    "brand": "VAFTOR",
+    "md_file": "VAFTOR.md",
+    "substances": [
+      "IVACAFTOR"
+    ],
+    "atc_codes": [
+      "R07AX02"
+    ],
+    "primary_atc": "R07AX02",
+    "atc_level1": "R",
+    "atc_level2": "R07",
+    "mahs": [
+      "ELPEN AE ΦΑΡΜΑΚΕΥΤΙΚΗ ΒΙΟΜΗΧΑΝΙΑ"
+    ],
+    "package_forms": [
+      "F.C.TAB 150MG/TAB"
+    ],
+    "drug_count": 1,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
+    ]
+  },
+  {
     "brand": "VAGICLIN",
     "md_file": "VAGICLIN.md",
     "substances": [
@@ -142279,6 +143032,36 @@
     "has_labelling": false,
     "sources": [
       "EOF"
+    ]
+  },
+  {
+    "brand": "VARESTA",
+    "md_file": "VARESTA.md",
+    "substances": [
+      "VORTIOXETINE HYDROBROMIDE"
+    ],
+    "atc_codes": [
+      "N06AX26"
+    ],
+    "primary_atc": "N06AX26",
+    "atc_level1": "N",
+    "atc_level2": "N06",
+    "mahs": [
+      "KRKA D.D. NOVO MESTO, SLOVENIA"
+    ],
+    "package_forms": [
+      "F.C.TAB 10MG/TAB",
+      "F.C.TAB 15MG/TAB",
+      "F.C.TAB 20MG/TAB",
+      "F.C.TAB 5MG/TAB"
+    ],
+    "drug_count": 4,
+    "doc_count": 0,
+    "has_pil": false,
+    "has_smpc": false,
+    "has_labelling": false,
+    "sources": [
+      "MOH"
     ]
   },
   {
